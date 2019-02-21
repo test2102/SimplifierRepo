@@ -1,1 +1,0 @@
-The scope of this Implementation Guide is to provide the technical specifications for contributing or consuming data from ........ As such, any additional information that is related to the development of the service is not included in this Implementation Guide.
